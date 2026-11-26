@@ -13,8 +13,8 @@ the play code `makefun-salmon-lynx-carpet`. Posted 26 Nov 2026, at least 45
 minutes apart, in the order listed in `POSTS.json`:
 
 1. Quote of make.fun's idle-game post — https://x.com/RoyRoyco69/status/2125763436705358018
-2. Quote of make.fun's best-game post — https://x.com/RoyRoyco69/status/2125776017218543644
-3. Quote of make.fun's GTA 6 results post — https://x.com/RoyRoyco69/status/2125787997140320379
+2. Quote of make.fun's GTA 6 results post — https://x.com/RoyRoyco69/status/2125787997140320379
+3. Quote of make.fun's AOD post (the pool's floor post) — https://x.com/RoyRoyco69/status/2125800057442041947
 
 Score: 2 points per repost and per quote, 1 point per like, summed over the
 posts — as read by the house at the deadline.
